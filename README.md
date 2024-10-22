@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Graphic designer, and I've worked on UX and UI projects and developed them using builders such as Wix and WordPress, as a freelancer I'm currently learning HTML, CSS and JavaScript, and I'm aiming to become a full stack developer, <br> Therefore, I will also learn other languages required to become one.
+I'm a Graphic designer, and I've worked on UX and UI projects and developed them using builders such as Wix and WordPress, as a freelancer. I'm currently learning HTML, CSS and JavaScript, and I'm aiming to become a full-stack developer, <br> Therefore, I will also learn other languages required to become one.
 
 
 # 💻 Tech Stack:
