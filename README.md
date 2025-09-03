@@ -1,5 +1,37 @@
 # 💫 About Me:
- Hi, I'm Guillermo — a Graphic Designer turned Web Developer passionate about creating seamless user experiences and clean, responsive interfaces.<br><br>💼 I began my journey freelancing in UX/UI design and front-end development using platforms like Wix and WordPress. Over time, I transitioned into modern web development and recently graduated from a Full-Stack Bootcamp, where I deepened my skills in both front-end and back-end technologies.<br><br>💻 My current stack includes:<br><br>JavaScript (my speciality)<br><br>React for building dynamic user interfaces<br><br>Node.js for back-end development<br><br>HTML, CSS, Git, and more<br><br>🚀 I'm constantly growing and learning, driven by curiosity and self-discipline. I learn best by doing and exploring — give me the starting point, and I’ll take it from there.<br><br>🎯 While I'm especially drawn to front-end development, I’m also comfortable building out the back-end — aiming to become a well-rounded JavaScript developer.<br><br>Let’s build something awesome.
+👋 Hi, I'm Guillermo
+
+I’m a Full-Stack Web Developer with a background in UX/UI design and one year of hands-on programming experience. My journey began in 2022, creating interfaces and bringing them to life with Wix and WordPress. That curiosity for building led me to dive into modern web development, and I later graduated from Kodigo Academy’s Full-Stack Bootcamp.
+
+💻 Tech Stack & Tools
+
+Frontend: JavaScript (ES6+), React, Next.js, Zustand, Sass, Tailwind CSS
+
+Backend: Node.js, Express, MongoDB, PHP, MySQL
+
+Other: Git, Firestore, Cloudinary, sweetalert 2
+
+🚀 What I Do
+
+Build responsive, user-focused web apps that combine functionality with thoughtful design
+
+Learn quickly on the go — I like to say “I’m great at doing things I don’t know how to do”
+
+Adapt easily to new tools, workflows, and remote collaboration environments
+
+🔑 Projects & Experience
+
+SPA with React & Firestore – Built a medical appointment app with React Hook Form and reusable components
+
+Freelance Web Development – Currently developing a client’s site with Next.js, Node.js, Zustand, and Sass
+
+Frontend Mentor Challenges – Solved real-world UI problems to sharpen responsive design and component reuse
+
+🎯 What Drives Me
+
+I enjoy solving problems, learning by doing, and bridging the gap between design and development. I’m passionate about building web applications that are clean, efficient, and scalable — and I’m always excited to take on new challenges.
+
+📩 Let’s connect! I’m open to collaboration, freelancing, and full-time opportunities.
 
 
 ## 🌐 Socials: 
