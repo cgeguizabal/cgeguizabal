@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Guillermo
 
-I’m a Full-Stack Web Developer with a background in UX/UI design and one year of hands-on programming experience. My journey began in 2022, creating interfaces and bringing them to life with Wix and WordPress. That curiosity for building led me to dive into modern web development, and I later graduated from Kodigo Academy’s Full-Stack Bootcamp.
+I’m a Full-Stack Web Developer with a background in UX/UI design. My journey began in 2022, creating interfaces and bringing them to life with Wix and WordPress. That curiosity for building led me to dive into modern web development, and I later graduated from Kodigo Academy’s Full-Stack Bootcamp.
 
 💻 Tech Stack & Tools
 
