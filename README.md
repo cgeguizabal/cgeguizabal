@@ -13,19 +13,11 @@ Other: Git, Firestore, Cloudinary, sweetalert 2
 
 🚀 What I Do
 
-Build responsive, user-focused web apps that combine functionality with thoughtful design
+- Build responsive, user-focused web apps that combine functionality with thoughtful design
 
-Learn quickly on the go — I like to say “I’m great at doing things I don’t know how to do”
+- Learn quickly on the go — I like to say “I’m great at doing things I don’t know how to do”
 
-Adapt easily to new tools, workflows, and remote collaboration environments
-
-🔑 Projects & Experience
-
-SPA with React & Firestore – Built a medical appointment app with React Hook Form and reusable components
-
-Freelance Web Development – Currently developing a client’s site with Next.js, Node.js, Zustand, and Sass
-
-Frontend Mentor Challenges – Solved real-world UI problems to sharpen responsive design and component reuse
+- Adapt easily to new tools, workflows, and remote collaboration environments
 
 🎯 What Drives Me
 
