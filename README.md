@@ -1,30 +1,20 @@
 # 💫 About Me:
 👋 Hi, I'm Guillermo
 
-I’m a Full-Stack Web Developer with a background in UX/UI design. My journey began in 2022, creating interfaces and bringing them to life with Wix and WordPress. That curiosity for building led me to dive into modern web development.
+Full-Stack & Desktop Software Developer with experience across the full development lifecycle, from REST APIs and SPAs to desktop and ERP applications. Proficient in C#, .NET, ASP.NET Core, React, Vue 3, Node.js, Laravel, and JavaScript, with strong database skills in SQL Server, MySQL, and MongoDB. Experienced in Clean Architecture, JWT authentication, Docker, and third-party integrations like Google Maps, Stripe, and Clerk. Background in international and remote projects across the U.S., Colombia, and El Salvador, with a focus on results, clean code, and UX/UI best practices. Capable of delivering complete full-stack and enterprise
+solutions, adapting to different tech stacks and business needs.
 
 💻 Tech Stack & Tools
 
-Frontend: JavaScript (ES6+), React, Next.js, Zustand, Sass, Tailwind CSS
+Web Technologies : Html, css, Sass
 
-Backend: Node.js, Express, MongoDB, PHP, MySQL
+Programming Languages: JavaScript, TypeScript, Php and C#
 
-Other: Git, Firestore, Cloudinary, sweetalert 2
+Libraries and Frameworks: React, Next.js, Laravel, Tailwind, ASP.NET, Node.js and Express.js
 
-🚀 What I Do
+Tools & Platforms: Git, Firestore, Cloudinary, sweetalert 2, Zustand, Wordpress, Postman
 
-- Build responsive, user-focused web apps that combine functionality with thoughtful design
-
-- Learn quickly on the go — I like to say “I’m great at doing things I don’t know how to do”
-
-- Adapt easily to new tools, workflows, and remote collaboration environments
-
-🎯 What Drives Me
-
-I enjoy solving problems, learning by doing, and bridging the gap between design and development. I’m passionate about building web applications that are clean, efficient, and scalable — and I’m always excited to take on new challenges.
-
-📩 Let’s connect! I’m open to collaboration, freelancing, and full-time opportunities.
-
+Data Base: SQL Server, MySQL, MongoDB
 
 ## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cgeguizabal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-guillermo-eguizabal-orellana) 
